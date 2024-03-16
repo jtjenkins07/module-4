@@ -21,7 +21,7 @@ function App() {
       <AnimalListDisplay/> {/* 06-mapping-list-and-rendering-with-custom-components */}
       <Form/> {/* 07-building-forms */}
       <JokeList/> {/* 08-rendering-json */}
-      <User/> {/* 08-rendering-json */}
+      <User/> {/* 09-working-with-apis */}
     </div>
   );
 }
